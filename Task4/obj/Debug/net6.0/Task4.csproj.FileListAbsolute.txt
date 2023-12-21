@@ -1,0 +1,15 @@
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\bin\Debug\net6.0\Task4.exe
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\bin\Debug\net6.0\Task4.deps.json
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\bin\Debug\net6.0\Task4.dll
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\bin\Debug\net6.0\Task4.pdb
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.dll
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.pdb
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+E:\inao\Documents\GB\LessonC_clone\Lesson1\Task4\obj\Debug\net6.0\ref\Task4.dll
